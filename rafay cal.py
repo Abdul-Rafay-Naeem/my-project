@@ -46,8 +46,3 @@ def again():
         again()
 
 calculate()        
-    
-
-        
-
-    
